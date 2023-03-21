@@ -8,7 +8,7 @@
 ## sprint # 1
 
 ### Historia de Usuario
-![](Imágenes/Captura de pantalla 2023-03-21 125503.jpg)
+![](Imagenes/Captura de pantalla 2023-03-21 125503.jpg)
 
 ### Historias Tecnicas
 ![](Imágenes/Captura de pantalla 2023-03-21 125517.jpg)
