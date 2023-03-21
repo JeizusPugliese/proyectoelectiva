@@ -8,10 +8,10 @@
 ## sprint # 1
 
 ### Historia de Usuario
-![](Imagenes/Captura de pantalla 2023-03-21 125503.jpg)
+![](Imágenes/Captura de pantalla 2023-03-21 125503.jpg)
 
 ### Historias Tecnicas
-![](Imagenes/Captura de pantalla 2023-03-21 125517.jpg)
+![](Imágenes/Captura de pantalla 2023-03-21 125517.jpg)
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
