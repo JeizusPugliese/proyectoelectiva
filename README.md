@@ -1,6 +1,6 @@
 # Proyecto electiva disciplinar II - Backend
 
-## integrantes: 
+## integrantes 
 *Jesus Pugliese[@JeizusPugliese](https://github.com/JeizusPugliese)
 *Orlando Vizcaino[@Tutarrito](https://github.com/Tutarrito)
 *Rick Rios[@Rickr18](https://github.com/Rickr18)
