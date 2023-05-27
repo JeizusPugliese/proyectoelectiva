@@ -1,3 +1,20 @@
+# Proyecto electiva disciplinar II - Backend
+
+## integrantes 
+*Jesus Pugliese[@JeizusPugliese](https://github.com/JeizusPugliese)
+
+*Orlando Vizcaino[@Tutarrito](https://github.com/Tutarrito)
+
+*Rick Rios[@Rickr18](https://github.com/Rickr18)
+
+## sprint # 1
+
+### Historia de Usuario
+![](Imagenes/SAVE_20230318_182735.jpg)
+
+### Historias Tecnicas
+![](Imagenes/SAVE_20230318_182741.jpg)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
